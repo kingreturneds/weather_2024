@@ -10,6 +10,10 @@ body{
     min-height: 100vh;
 }
 .hed{
-    
+    position: relative;
+    height: 500px;
+    width: 500px;
+    border: 5px solid blue;
+    border-radius: 2px;
 }
 
