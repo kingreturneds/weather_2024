@@ -11,16 +11,15 @@ body{
 }
 .hed{
     position: relative;
-    height: 500px;
-    width: 500px;
+    height:500px;
+    width: 400px;
     padding: 20px;
     background-color: gray;
     border: 5px solid rgb(143, 143, 201);
     border-radius: 2px;
 }
 .h1{
-    padding-bottom: 2px;
-    margin-bottom: 2px;
+ 
 }
 .seargh{
     position: relative;
