@@ -1,7 +1,8 @@
 *{
  background-color: bisque;
-  margin: 0px;
-  padding: 0px;
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
 }
 body{
     display: flex;
@@ -19,12 +20,14 @@ body{
     border-radius: 2px;
 }
 .h1{
- 
+ padding: 2px;
+ margin: 2px;
 }
 .seargh{
     position: relative;
     width: 100px;
     height: 55px;
+    background-color: aqua;
 }
 
     
